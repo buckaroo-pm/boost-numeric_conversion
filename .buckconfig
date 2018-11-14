@@ -1,0 +1,12 @@
+[repositories]
+  buckaroo.github.buckaroo-pm.boost-assert = ./buckaroo/github/buckaroo-pm/boost-assert
+  buckaroo.github.buckaroo-pm.boost-config = ./buckaroo/github/buckaroo-pm/boost-config
+  buckaroo.github.buckaroo-pm.boost-core = ./buckaroo/github/buckaroo-pm/boost-core
+  buckaroo.github.buckaroo-pm.boost-detail = ./buckaroo/github/buckaroo-pm/boost-detail
+  buckaroo.github.buckaroo-pm.boost-exception = ./buckaroo/github/buckaroo-pm/boost-exception
+  buckaroo.github.buckaroo-pm.boost-integer = ./buckaroo/github/buckaroo-pm/boost-integer
+  buckaroo.github.buckaroo-pm.boost-preprocessor = ./buckaroo/github/buckaroo-pm/boost-preprocessor
+  buckaroo.github.buckaroo-pm.boost-static_assert = ./buckaroo/github/buckaroo-pm/boost-static_assert
+  buckaroo.github.buckaroo-pm.boost-throw_exception = ./buckaroo/github/buckaroo-pm/boost-throw_exception
+  buckaroo.github.buckaroo-pm.boost-type_traits = ./buckaroo/github/buckaroo-pm/boost-type_traits
+  buckaroo.github.buckaroo-pm.boost-utility = ./buckaroo/github/buckaroo-pm/boost-utility
