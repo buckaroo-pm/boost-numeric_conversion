@@ -1,0 +1,69 @@
+manifest = "9232bd0da3093bdce4b25d4db74576dd5245a0d8c44543edb7a0a7526a8a6c4f"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-config"
+target = "//:config"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-core"
+target = "//:core"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-detail"
+target = "//:detail"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-integer"
+target = "//:integer"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-preprocessor"
+target = "//:preprocessor"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-throw_exception"
+target = "//:throw_exception"
+
+[lock."github.com/buckaroo-pm/boost-assert"]
+versions = [ "1.63.0" ]
+revision = "9b56785b10414925c36e556e091726b7bd8611c3"
+
+[lock."github.com/buckaroo-pm/boost-config"]
+versions = [ "1.63.0" ]
+revision = "f4f11472a3df6451547ae5c1023434485590e80e"
+
+[lock."github.com/buckaroo-pm/boost-core"]
+versions = [ "1.63.0" ]
+revision = "8a7a59a2eae5811359811bb944e09a50f29cf363"
+
+[lock."github.com/buckaroo-pm/boost-detail"]
+versions = [ "1.63.0" ]
+revision = "8be308e3f8c821d50b67c579c52fe35f3c3310e9"
+
+[lock."github.com/buckaroo-pm/boost-exception"]
+versions = [ "1.63.0" ]
+revision = "2e28f631c497aee21a83eb0a10c59d3e976ca12b"
+
+[lock."github.com/buckaroo-pm/boost-integer"]
+versions = [ "1.63.0" ]
+revision = "2e0804511352ec001ad7f78b373aed47a57cabd1"
+
+[lock."github.com/buckaroo-pm/boost-preprocessor"]
+versions = [ "1.63.0" ]
+revision = "a0a58d55f50afae14eecec49b2789970b8144ad0"
+
+[lock."github.com/buckaroo-pm/boost-static_assert"]
+versions = [ "1.63.0" ]
+revision = "a65be8666c3771ce7660385cdfaf8dbf19dffcc4"
+
+[lock."github.com/buckaroo-pm/boost-throw_exception"]
+versions = [ "1.63.0" ]
+revision = "e86d4fc91e029741fa95cdb47a47f60f45998352"
+
+[lock."github.com/buckaroo-pm/boost-type_traits"]
+versions = [ "1.63.0" ]
+revision = "ffb2665a30e3ea4d941cbe5a4ee89e2e1dacd941"
+
+[lock."github.com/buckaroo-pm/boost-utility"]
+versions = [ "1.63.0" ]
+revision = "b45b3200912927658a21c1e8e9f4e7fd9578e7a4"
